@@ -34,10 +34,4 @@ A **simple and responsive weather application** built with **React.js**. This ap
 
 ---
 
-## ⚡ Setup & Installation
 
-1. **Clone the repository**
-
-```bash
-git clone <your-repo-url>
-cd hono-cloudflare-pages-stack-main/hono-cloudflare-pages-stack-main
